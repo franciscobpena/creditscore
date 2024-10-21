@@ -5,6 +5,8 @@
 Este projeto desenvolve um modelo de credit scoring para avaliar novos solicitantes de empréstimos pessoais. 
 O modelo utiliza dados históricos de clientes que tiveram empréstimos aprovados anteriormente, com o objetivo de prever o risco de crédito de futuros solicitantes.
 
+[Clique e veja o desenvolvimento do modelo e suas análises](https://github.com/franciscobpena/creditscore/blob/main/creditscore.ipynb)
+
 ## Conclusões
 
 O modelo de credit scoring desenvolvido apresenta as seguintes características e resultados:
@@ -51,7 +53,4 @@ Ponto de corte: 0.84
 3. Investigar técnicas de balanceamento de classes.
 4. Testar algoritmos alternativos de machine learning (ex: Random Forest, Gradient Boosting).
 5. Refinar o modelo com base em feedback de implementação prática.
-
-
-
 
