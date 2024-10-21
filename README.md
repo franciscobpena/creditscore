@@ -48,9 +48,9 @@ Ponto de corte: 0.84
 
 ## Próximos Passos
 
-1. Calcular e interpretar scores para clientes específicos.
-2. Explorar a inclusão de novas variáveis preditivas ou criação de features derivadas.
-3. Investigar técnicas de balanceamento de classes.
-4. Testar algoritmos alternativos de machine learning (ex: Random Forest, Gradient Boosting).
+1. Calcular e interpretar scores para clientes específicos;
+2. Explorar a inclusão de novas variáveis preditivas ou criação de features derivadas;
+3. Investigar técnicas de balanceamento de classes;
+4. Testar algoritmos alternativos de machine learning (ex: Random Forest, Gradient Boosting);
 5. Refinar o modelo com base em feedback de implementação prática.
 
