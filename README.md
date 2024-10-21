@@ -27,7 +27,7 @@ O modelo de credit scoring desenvolvido apresenta as seguintes características 
 
 O modelo demonstra um desempenho aceitável, sem evidências de overfitting. No entanto, há margem para melhorias em seu poder preditivo.
 
-* ** Algoritimo do modelo de Score de Crédito:**
+** Algoritimo do modelo de Score de Crédito:**
   
 Z = 2.4270 - 0.3225 * QTDE_EMPRESTIMOS_12M - 0.1413 * QTDE_CHEQUE_ESPECIAL_12M 
     - 0.1197 * QTDE_PGTOS_EM_ATRASO_12M + 0.00001669 * VALOR_PGTOS_12M 
