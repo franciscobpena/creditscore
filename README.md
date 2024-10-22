@@ -1,5 +1,7 @@
 # Score de Crédito para Empréstimos Pessoais
 
+## Contexto
+
 Este projeto desenvolve um modelo de credit scoring para avaliar novos solicitantes de empréstimos pessoais. 
 O modelo utiliza dados históricos de clientes que tiveram empréstimos aprovados anteriormente, com o objetivo de prever o risco de crédito de futuros solicitantes.
 
