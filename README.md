@@ -44,7 +44,8 @@ Ponto de corte: 0.84
 - Análise Exploratória de Dados (EDA);
 - Análise do Poder Preditivo das Variáveis;
 - Modelagem com Regressão Logística;
-- Avaliação de Desempenho do Model.
+- Avaliação de Desempenho do Modelo;
+- Análise de overfitting. 
 
 ## Próximos Passos
 
